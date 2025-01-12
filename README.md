@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanvi Malik</h1>
 <h3 align="center">I am a passionate electrical engineer with a specialization in Computer Science</h3>
 
-< img align = "right" alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FPluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr&psig=AOvVaw12TE9GRLNG-LTcjOAMjMqg&ust=1736743211978000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiuzcau74oDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmalikagr04&label=Profile%20views&color=0e75b6&style=flat" alt="tmalikagr04" /> </p>
 
